@@ -5,7 +5,7 @@
 
 @use 'sass:math';
 
-$dashboard-line-color-price: #8286a9 !default;
+$dashboard-line-color-price: #2596be !default;
 $base-border-color: #e2e5ec !default;
 $common-container-margin: 50px !default;
 
@@ -41,6 +41,7 @@ $grays: map-merge(
 $blue: #4786ff !default;
 $indigo: #5b389f !default;
 $purple: #997fdc !default;
+$eastblue: #2596be !default;
 $pink: #e83e8c !default;
 $lilac: #b38dc9 !default;
 $red: #c74d39 !default;
@@ -56,6 +57,7 @@ $colors: map-merge(
   (
     "blue": $blue,
     "indigo": $indigo,
+    "eastblue":$eastblue,
     "purple": $purple,
     "pink": $pink,
     "red": $red,
@@ -71,12 +73,12 @@ $colors: map-merge(
   $colors
 );
 
-$primary: $indigo !default;
-$dark-primary: #9b62ff !default;
-$dark-primary-alternate: #9b62ff !default;
+$primary: $eastblue !default;
+$dark-primary: #134b5f !default;
+$dark-primary-alternate: #134b5f !default;
 $secondary: #7dd79f !default;
 $dark-secondary: #87e1a9 !default;
-$tertiary: $purple !default;
+$tertiary: $eastblue !default;
 $success: $green !default;
 $info: $cyan !default;
 $warning: $yellow !default;
