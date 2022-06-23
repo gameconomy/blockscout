@@ -10,7 +10,7 @@ $footer-logo-width: auto !default;
 .footer {
   background: $footer-background-color;
   color: $footer-text-color;
-  font-size: 12px;
+  font-size: 18px;
   line-height: 1.67;
   margin: 0;
   padding: 40px 0;
@@ -79,6 +79,10 @@ $footer-logo-width: auto !default;
     font-weight: 300;
     line-height: 1.4;
     margin: 0 0 15px;
+  }
+
+  h2 {
+    color: $footer-title-color;
   }
 
   ul {
