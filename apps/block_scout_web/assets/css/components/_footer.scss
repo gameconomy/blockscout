@@ -39,6 +39,9 @@ $footer-logo-width: auto !default;
   align-items: center;
   display: flex;
   margin: 0 0 25px;
+  margin-right: 15px;
+  text-decoration: none;
+  transition: $transition-cont;
 }
 
 .footer-social-icon {
