@@ -2,41 +2,41 @@
   <div class="footer-body container px-16 lg:px-40 mx-auto lg:flex">
     <div class="row footer-body container px-16 lg:px-40 mx-auto lg:flex">
       
-        <div class="col-xs-10 col-lg-2 whitespace-nowrap leading-20">
+        <div class="footer-list">
           <div class="flex w-full leading-20 lg:mb-0 footer-list">
-            <a class="footer-navigation" target="_blank" href="https://skymavis.com/#product">
+            <a class="footer-navigation" target="_blank" href="https://gameconomy.tech/#product">
               <div class="cursor-pointer hover:text-primary-5 mb-12 lg:mb-0 w-full font-bold text-basic-8 lg:mx-12 whitespace-nowrap leading-20"><h2>Our Products</h2></div>
             </a>
           </div>
         </div>
 
-        <div class="col-xs-10 col-lg-2 whitespace-nowrap leading-20">
+        <div class="footer-list">
           <div class="flex w-full leading-20 lg:mb-0 footer-list">
-            <a class="footer-navigation" target="_blank" href="https://skymavis.com/careers">
+            <a class="footer-navigation" target="_blank" href="https://gameconomy.tech/#careers">
               <div class="cursor-pointer hover:text-primary-5 mb-12 lg:mb-0 w-full font-bold text-basic-8 lg:mx-12 whitespace-nowrap leading-20"><h2>Careers</h2></div>
             </a>
           </div>
         </div>
 
-        <div class="col-xs-10 col-lg-2 whitespace-nowrap leading-20">
+        <div class="footer-list">
           <div class="flex w-full leading-20 lg:mb-0 footer-list">
-            <a class="footer-navigation" target="_blank" href="https://axie.substack.com/">
+            <a class="footer-navigation" target="_blank" href="https://gameconomy.tech/#blog">
               <div class="cursor-pointer hover:text-primary-5 mb-12 lg:mb-0 w-full font-bold text-basic-8 lg:mx-12" whitespace-nowrap leading-20"><h2>Blog</h2></div>
             </a>
           </div>
         </div>
 
-        <div class="col-xs-10 col-lg-2 whitespace-nowrap leading-20">
+        <div class="footer-list">
           <div class="flex w-full leading-20 lg:mb-0 footer-list">
-            <a class="footer-navigation" target="_blank" href="https://skymavis.com/#contactUs">
+            <a class="footer-navigation" target="_blank" href="https://gameconomy.tech/#contactUs">
               <div class="cursor-pointer hover:text-primary-5 mb-12 lg:mb-0 w-full font-bold text-basic-8 lg:mx-12 whitespace-nowrap leading-20"><h2>Contact Us</h2></div>
             </a>
           </div>
         </div>
 
-        <div class="col-xs-10 col-lg-4 whitespace-nowrap leading-20">
-          <div class="footer-social-icons">
-              <a target="_blank" href="https://discord.gg/axie">
+        <div class="footer-social-icons">
+          <div class="footer-social-icon">
+              <a target="_blank" href="https://discord.gg/gameconomy">
                 <svg style="fill:currentColor" class="text-basic-7 hover:text-primary-5 mr-12 cursor-pointer" viewBox="0 0 24 24" width="32" height="32">
                   <path fill-rule="evenodd" clip-rule="evenodd" d="M12.78 11.6c0-.66.446-1.2 1.01-1.2.565 0 1.01.54 1.01 1.2 0 .66-.446 1.2-1.01 1.2-.554 0-1.01-.54-1.01-1.2zm-3.611 0c0-.66.445-1.2 1.009-1.2.564 0 1.02.54 1.01 1.2 0 .66-.446 1.2-1.01 1.2-.554 0-1.01-.54-1.01-1.2z" fill="">
                   </path>
@@ -44,19 +44,19 @@
                   </path>
                 </svg>
               </a>
-              <a target="_blank" href="https://twitter.com/SkyMavisHQ">
+              <a target="_blank" href="https://twitter.com/gameconomy">
                 <svg style="fill:currentColor" class="hover:text-primary-5 text-basic-7 mx-12 cursor-pointer" viewBox="0 0 24 24" width="32" height="32">
                   <path d="M22 5.894a8.652 8.652 0 01-2.363.638A4.026 4.026 0 0021.441 4.3a8.272 8.272 0 01-2.6.978A4.139 4.139 0 0015.846 4c-2.27 0-4.097 1.814-4.097 4.038 0 .32.027.628.095.92a11.666 11.666 0 01-8.451-4.222 4.017 4.017 0 00-.562 2.04c0 1.399.732 2.638 1.821 3.356A4.098 4.098 0 012.8 9.634v.045c0 1.962 1.421 3.591 3.285 3.966a4.15 4.15 0 01-1.075.133c-.263 0-.527-.014-.776-.069a4.131 4.131 0 003.831 2.813 8.32 8.32 0 01-5.084 1.722c-.336 0-.659-.015-.981-.056A11.675 11.675 0 008.29 20c7.545 0 11.67-6.154 11.67-11.488 0-.178-.006-.35-.015-.522A8.112 8.112 0 0022 5.894z" fill="">
                   </path>
                 </svg>
               </a>
-              <a target="_blank" href="https://www.linkedin.com/company/skymavis/">
+              <a target="_blank" href="https://www.linkedin.com/company/gameconomy/">
                 <svg style="fill:currentColor" class="hover:text-primary-5 text-basic-7 mx-12 cursor-pointer" viewBox="0 0 24 24" width="32" height="32">
                   <path fill-rule="evenodd" clip-rule="evenodd" d="M3.442 2h17.116C21.354 2 22 2.646 22 3.442v17.116c0 .796-.646 1.442-1.442 1.442H3.442A1.442 1.442 0 012 20.558V3.442C2 2.646 2.646 2 3.442 2zM6.66 17.117h2.435V9.79H6.66v7.327zM7.877 8.79H7.86c-.817 0-1.346-.563-1.346-1.266 0-.719.545-1.266 1.378-1.266.833 0 1.346.547 1.362 1.266 0 .703-.529 1.266-1.378 1.266zm7.564 8.327h2.435v-4.201c0-2.25-1.202-3.298-2.804-3.298-1.292 0-1.871.71-2.195 1.21V9.79h-2.435c.032.687 0 7.327 0 7.327h2.435v-4.092c0-.219.016-.437.08-.594.177-.438.577-.89 1.25-.89.881 0 1.234.671 1.234 1.656v3.92z" fill="">
                   </path>
                 </svg>
               </a>
-              <a target="_blank" href="https://www.facebook.com/SkyMavisHQ">
+              <a target="_blank" href="https://www.facebook.com/gameconomy">
                 <svg style="fill:currentColor" class="hover:text-primary-5 text-basic-7 ml-12 cursor-pointer" viewBox="0 0 24 24" width="32" height="32">
                   <path fill-rule="evenodd" clip-rule="evenodd" d="M22 12.061C22 6.505 17.523 2 12 2S2 6.505 2 12.061c0 5.022 3.657 9.184 8.438 9.939v-7.03h-2.54V12.06h2.54V9.845c0-2.522 1.492-3.915 3.777-3.915 1.094 0 2.238.197 2.238.197v2.476h-1.26c-1.243 0-1.63.775-1.63 1.57v1.888h2.773l-.443 2.908h-2.33V22c4.78-.755 8.437-4.917 8.437-9.939z" fill="">
                   </path>
