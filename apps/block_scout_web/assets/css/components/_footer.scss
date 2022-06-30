@@ -55,6 +55,18 @@ $footer-logo-width: 150px !default;
   text-decoration: none;
   transition: $transition-cont;
   text-align: center;
+
+  &:hover {
+    color: $footer-social-icon-color;
+  }
+
+  &:focus {
+    color: darken($footer-social-icon-color, 5);
+  }
+
+  &:last-child {
+    margin-right: 0;
+  }
 }
 
 .footer-social-icon {
@@ -83,7 +95,11 @@ $footer-logo-width: 150px !default;
 
   &:hover {
     color: $footer-link-color;
-    text-decoration: underline;
+    text-decoration: none;
+  }
+
+  &:focus {
+    color: darken($footer-link-color, 5);
   }
 }
 
@@ -118,6 +134,15 @@ $footer-logo-width: 150px !default;
     margin-left: auto;
     padding-right: auto;
     padding-left: auto;
+
+    &:hover {
+      color: $footer-title-color;
+      text-decoration: none;
+    }
+  
+    &:focus {
+      color: darken($footer-title-color, 5);
+    }
   }
 
   ul {

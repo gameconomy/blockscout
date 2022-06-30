@@ -10,7 +10,7 @@
           </div>
         </div>
 
-        <div class="footer-list">
+        <div class="flex items-center w-full leading-20 mb-20 lg:mb-0 footer-list">
           <div class="flex w-full leading-20 lg:mb-0 footer-list">
             <a class="footer-navigation" target="_blank" href="https://gameconomy.tech/#careers">
               <div class="cursor-pointer hover:text-primary-5 mb-12 lg:mb-0 w-full font-bold text-basic-8 lg:mx-12 whitespace-nowrap leading-20"><h2>Careers</h2></div>
@@ -18,7 +18,7 @@
           </div>
         </div>
 
-        <div class="footer-list">
+        <div class="flex items-center w-full leading-20 mb-20 lg:mb-0 footer-list">
           <div class="flex w-full leading-20 lg:mb-0 footer-list">
             <a class="footer-navigation" target="_blank" href="https://gameconomy.tech/#blog">
               <div class="cursor-pointer hover:text-primary-5 mb-12 lg:mb-0 w-full font-bold text-basic-8 lg:mx-12" whitespace-nowrap leading-20"><h2>Blog</h2></div>
@@ -26,7 +26,7 @@
           </div>
         </div>
 
-        <div class="footer-list">
+        <div class="flex items-center w-full leading-20 mb-20 lg:mb-0 footer-list">
           <div class="flex w-full leading-20 lg:mb-0 footer-list">
             <a class="footer-navigation" target="_blank" href="https://gameconomy.tech/#contactUs">
               <div class="cursor-pointer hover:text-primary-5 mb-12 lg:mb-0 w-full font-bold text-basic-8 lg:mx-12 whitespace-nowrap leading-20"><h2>Contact Us</h2></div>
@@ -34,8 +34,7 @@
           </div>
         </div>
 
-        <div class="footer-social-icons">
-          <div class="footer-social-icon">
+          <div class="flex items-center w-full leading-20 mb-20 lg:mb-0 footer-social-icons">
               <a target="_blank" href="https://discord.gg/gameconomy">
                 <svg style="fill:currentColor" class="text-basic-7 hover:text-primary-5 mr-12 cursor-pointer" viewBox="0 0 24 24" width="32" height="32">
                   <path fill-rule="evenodd" clip-rule="evenodd" d="M12.78 11.6c0-.66.446-1.2 1.01-1.2.565 0 1.01.54 1.01 1.2 0 .66-.446 1.2-1.01 1.2-.554 0-1.01-.54-1.01-1.2zm-3.611 0c0-.66.445-1.2 1.009-1.2.564 0 1.02.54 1.01 1.2 0 .66-.446 1.2-1.01 1.2-.554 0-1.01-.54-1.01-1.2z" fill="">
@@ -63,7 +62,6 @@
                 </svg>
               </a>
           </div>
-        </div>
 
          <div class="row footer-body container px-16 lg:px-40 mx-auto lg:flex">
             <div class="container text-center">
