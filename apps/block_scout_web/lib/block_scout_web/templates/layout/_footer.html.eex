@@ -20,7 +20,7 @@
 
         <div class="flex items-center w-full leading-20 mb-20 lg:mb-0 footer-list">
           <div class="flex w-full leading-20 lg:mb-0 footer-list">
-            <a class="footer-navigation" target="_blank" href="https://gameconomy.tech/#blog">
+            <a class="footer-navigation" target="_blank" href="https://blog.gameconomy.tech/">
               <div class="cursor-pointer hover:text-primary-5 mb-12 lg:mb-0 w-full font-bold text-basic-8 lg:mx-12" whitespace-nowrap leading-20"><h2>Blog</h2></div>
             </a>
           </div>
@@ -35,7 +35,7 @@
         </div>
 
           <div class="flex items-center w-full leading-20 mb-20 lg:mb-0 footer-social-icons">
-              <a target="_blank" href="https://discord.gg/gameconomy">
+              <a target="_blank" href="https://discord.gg/invite/GhZKCGNbpm">
                 <svg style="fill:currentColor" class="text-basic-7 hover:text-primary-5 mr-12 cursor-pointer" viewBox="0 0 24 24" width="32" height="32">
                   <path fill-rule="evenodd" clip-rule="evenodd" d="M12.78 11.6c0-.66.446-1.2 1.01-1.2.565 0 1.01.54 1.01 1.2 0 .66-.446 1.2-1.01 1.2-.554 0-1.01-.54-1.01-1.2zm-3.611 0c0-.66.445-1.2 1.009-1.2.564 0 1.02.54 1.01 1.2 0 .66-.446 1.2-1.01 1.2-.554 0-1.01-.54-1.01-1.2z" fill="">
                   </path>
@@ -49,13 +49,13 @@
                   </path>
                 </svg>
               </a>
-              <a target="_blank" href="https://www.linkedin.com/company/gameconomy/">
+              <a target="_blank" href="https://www.linkedin.com/company/gameconomytech/">
                 <svg style="fill:currentColor" class="hover:text-primary-5 text-basic-7 mx-12 cursor-pointer" viewBox="0 0 24 24" width="32" height="32">
                   <path fill-rule="evenodd" clip-rule="evenodd" d="M3.442 2h17.116C21.354 2 22 2.646 22 3.442v17.116c0 .796-.646 1.442-1.442 1.442H3.442A1.442 1.442 0 012 20.558V3.442C2 2.646 2.646 2 3.442 2zM6.66 17.117h2.435V9.79H6.66v7.327zM7.877 8.79H7.86c-.817 0-1.346-.563-1.346-1.266 0-.719.545-1.266 1.378-1.266.833 0 1.346.547 1.362 1.266 0 .703-.529 1.266-1.378 1.266zm7.564 8.327h2.435v-4.201c0-2.25-1.202-3.298-2.804-3.298-1.292 0-1.871.71-2.195 1.21V9.79h-2.435c.032.687 0 7.327 0 7.327h2.435v-4.092c0-.219.016-.437.08-.594.177-.438.577-.89 1.25-.89.881 0 1.234.671 1.234 1.656v3.92z" fill="">
                   </path>
                 </svg>
               </a>
-              <a target="_blank" href="https://www.facebook.com/gameconomy">
+              <a target="_blank" href="https://www.facebook.com/gameconomy.tech">
                 <svg style="fill:currentColor" class="hover:text-primary-5 text-basic-7 ml-12 cursor-pointer" viewBox="0 0 24 24" width="32" height="32">
                   <path fill-rule="evenodd" clip-rule="evenodd" d="M22 12.061C22 6.505 17.523 2 12 2S2 6.505 2 12.061c0 5.022 3.657 9.184 8.438 9.939v-7.03h-2.54V12.06h2.54V9.845c0-2.522 1.492-3.915 3.777-3.915 1.094 0 2.238.197 2.238.197v2.476h-1.26c-1.243 0-1.63.775-1.63 1.57v1.888h2.773l-.443 2.908h-2.33V22c4.78-.755 8.437-4.917 8.437-9.939z" fill="">
                   </path>
